@@ -3,9 +3,12 @@
 📌 Me interesa el análisis de datos y todo lo relacionado con convertir datos en decisiones.
 
 💻 Actualmente estoy aprendiendo:
-- Python (pandas, matplotlib, numpy)
-- Análisis exploratorio de datos
-- Visualización de datos
+- Análisis de datos en TripleTen
+- Tecnologías enfocadas a este ámbito:
+  - Excel
+  - SQL
+  - Python (pandas, numpy y matplotlib)
+  - Power BI
 
 📊 Estoy buscando colaborar en proyectos donde pueda practicar y mejorar mis habilidades en análisis de datos.
 
