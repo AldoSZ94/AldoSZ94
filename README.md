@@ -27,7 +27,8 @@ Mi objetivo es unir la precisión técnica con la creatividad para resolver prob
 ---
 
 ## 🌐 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldosz94/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldoszepeda94@gmail.com)  
-📱 **Teléfonos:** 322-188-2809 / 322-135-0871  
+📱 **Teléfonos:** [322-188-2809](tel:3221882809) / [322-135-0871](tel:3221350871)  
 
 ---
