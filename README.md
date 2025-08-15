@@ -1,6 +1,6 @@
 # ¡Hola! Soy Aldo Sandoval 👋  
 
-💻 **Analista de Datos | Python | SQL | Power BI**  
+💻 **Analista de Datos | Python | SQL | Power BI | Excel**  
 Apasionado por transformar datos en información clara, útil y poderosa.  
 Mi objetivo es unir la precisión técnica con la creatividad para resolver problemas y generar impacto.
 
@@ -26,24 +26,8 @@ Mi objetivo es unir la precisión técnica con la creatividad para resolver prob
 
 ---
 
-## 📌 Proyectos destacados  
-- **[Análisis de ventas](#)** → Dashboard interactivo y KPIs de rendimiento.  
-- **[Titanic - Predicción de supervivencia](#)** → Machine Learning para predicción de pasajeros.  
-- **[Automatización de reportes](#)** → Scripts en Python para generar informes automáticos.  
-
----
-
-## 📊 Mis estadísticas en GitHub  
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
-
----
-
 ## 🌐 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aldoszepeda94@gmail.com)  
+📱 **Teléfonos:** 322-188-2809 / 322-135-0871  
 
 ---
-💡 *"Los datos cuentan historias, y yo me encargo de contarlas bien."*
-
---->
