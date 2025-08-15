@@ -1,21 +1,49 @@
-### 👋 ¡Hola! Soy Aldo (@AldoSZ94)
+# ¡Hola! Soy Aldo Sandoval 👋  
 
-📌 Me interesa el análisis de datos y todo lo relacionado con convertir datos en decisiones.
+💻 **Analista de Datos | Python | SQL | Power BI**  
+Apasionado por transformar datos en información clara, útil y poderosa.  
+Mi objetivo es unir la precisión técnica con la creatividad para resolver problemas y generar impacto.
 
-💻 Actualmente estoy aprendiendo:
-- Análisis de datos en TripleTen
-- Tecnologías enfocadas a este ámbito:
-  - Excel
-  - SQL
-  - Python (pandas, numpy y matplotlib)
-  - Power BI
+---
 
-📊 Estoy buscando colaborar en proyectos donde pueda practicar y mejorar mis habilidades en análisis de datos.
+## 🚀 Sobre mí  
+- 📊 Analizo, limpio y visualizo datos para descubrir patrones y oportunidades.  
+- 🐍 Manejo Python (pandas, matplotlib, seaborn) para análisis y automatización.  
+- 🗄️ Trabajo con bases de datos SQL para consultas y análisis avanzados.  
+- 📈 Creo dashboards y reportes interactivos en Power BI.  
+- 🌱 Siempre aprendiendo nuevas herramientas y metodologías.
 
-📬 ¿Cómo contactarme?
-[LinkedIn](https://www.linkedin.com/in/aldosz94) | [Correo electrónico](aldoszepeda94@gmail.com)
+---
 
-<!---
-AldoSZ94/AldoSZ94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+## 🛠️ Tecnologías y herramientas  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-013243?style=for-the-badge&logo=plotly&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados  
+- **[Análisis de ventas](#)** → Dashboard interactivo y KPIs de rendimiento.  
+- **[Titanic - Predicción de supervivencia](#)** → Machine Learning para predicción de pasajeros.  
+- **[Automatización de reportes](#)** → Scripts en Python para generar informes automáticos.  
+
+---
+
+## 📊 Mis estadísticas en GitHub  
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@example.com)
+
+---
+💡 *"Los datos cuentan historias, y yo me encargo de contarlas bien."*
+
 --->
