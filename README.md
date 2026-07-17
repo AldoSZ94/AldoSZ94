@@ -4,7 +4,7 @@
 
 Me apasiona la programación y el aprendizaje continuo. Disfruto construir soluciones que resuelvan problemas reales, desde aplicaciones web hasta proyectos de análisis de datos.
 
-Actualmente me estoy especializando en **Desarrollo backend con Django**, mientras continúo fortaleciendo mis conocimientos en **frontend** y **análisis de datos**.
+Actualmente estoy ampliando mis conocimientos en **Desarrollo web** con **React** y **Desarrollo backend** con **Django**, sin dejar de fortalecer mis habilidades en **Análisis de datos**.
 
 ---
 
