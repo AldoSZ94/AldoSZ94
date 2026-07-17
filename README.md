@@ -4,19 +4,17 @@
 
 Me apasiona la programación y el aprendizaje continuo. Disfruto construir soluciones que resuelvan problemas reales, desde aplicaciones web hasta proyectos de análisis de datos.
 
-Actualmente me estoy especializando en **desarrollo backend con Django**, mientras continúo fortaleciendo mis conocimientos en **frontend** y **análisis de datos**.
+Actualmente me estoy especializando en **Desarrollo backend con Django**, mientras continúo fortaleciendo mis conocimientos en **frontend** y **análisis de datos**.
 
 ---
 
 ## 🚀 Sobre mí
 
-- 🐍 Desarrollo aplicaciones utilizando Python.
-- 🌐 Diseño y desarrollo interfaces web con HTML, CSS, JavaScript y React.
-- ⚙️ Actualmente aprendiendo desarrollo backend con Django y APIs REST.
-- 📊 Experiencia realizando análisis de datos con Python, SQL y Power BI.
-- 🗄️ Manejo bases de datos relacionales y consultas SQL.
-- 🌱 Me gusta aprender nuevas tecnologías y enfrentar retos que me permitan crecer como programador.
-
+- 🎯 Busco mi primera oportunidad laboral como programador, ya sea como **Analista de Datos Jr** | **Frontend Jr o Backend Jr**.
+- 🌐 Diseño y desarrollo interfaces web con **HTML**, **CSS** y **JavaScript**.
+- 🌱 Me gusta aprender nuevas tecnologías que me permitan crecer como **programador**.
+- ⚙️ Actualmente aprendiendo **React** y **Desarrollo backend con Django**.
+  
 ---
 
 ## 🛠️ Tecnologías
@@ -27,6 +25,7 @@ Actualmente me estoy especializando en **desarrollo backend con Django**, mientr
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -45,16 +44,12 @@ Actualmente me estoy especializando en **desarrollo backend con Django**, mientr
 
 ---
 
-## 🎯 Actualmente
-
-- 📚 Aprendiendo Django a profundidad.
-- 🔥 Construyendo proyectos Full Stack.
-- 🚀 Próximamente: Django REST Framework, Docker y despliegue en la nube.
-
----
-
 ## 🌐 Conecta conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldosz94/)
 
 📧 **Correo:** aldoszepeda94@gmail.com
+
+
+
+---
