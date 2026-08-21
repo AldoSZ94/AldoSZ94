@@ -1,6 +1,6 @@
 # ¡Hola! Soy Aldo Sandoval 👋
 
-💻 **Análisis de Datos | Frontend | Backend en formación**
+💻 **Análisis de Datos | Frontend | Backend**
 
 Me apasiona la programación y el aprendizaje continuo. Disfruto construir soluciones que resuelvan problemas reales, desde aplicaciones web hasta proyectos de análisis de datos.
 
